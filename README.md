@@ -1,2 +1,3 @@
-# mixeffect-ssrc-graphics
-Graphics for use with MixEffect SuperSource Presets
+# MixEffect SuperSource Preset Graphics
+
+Graphics for use with MixEffect SuperSource Presets.
